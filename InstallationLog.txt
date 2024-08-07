@@ -1,0 +1,1502 @@
+************************************* Invoked: mar. mars 19 14:39:27 2024
+[0] Arguments: E:\qt-opensource-windows-x86-5.12.12.exe
+[133] Operations sanity check succeeded.
+[143] License type read from resource file: "open source"
+[143] License display name read from resource file: "open source"
+[143] Product read from resource file: ""
+[144] Reading Qt Account settings from disk: "C:/Users/asus/AppData/Roaming/Qt/qtaccount.ini"
+[144] Warning: Qt Account settings file [C:\\Users\\asus\\AppData\\Roaming\\Qt\\qtaccount.ini] does not exist.
+[144] Warning: Could not find Qt Account.
+[144] QtAccount information:
+[144] Login completed: false
+[144] Email: ""
+[144] Total number of licenses: 0
+[144] Account type: 3
+[233] Language: fr-FR
+[1545] Warning: Aucune information d'identification du compte Qt trouvée. Veuillez vous connecter via l'outil de maintenance du SDK.
+[2685] Warning: Aucune information d'identification du compte Qt trouvée. Veuillez vous connecter via l'outil de maintenance du SDK.
+[2685] Warning: Aucune information d'identification du compte Qt trouvée. Veuillez vous connecter via l'outil de maintenance du SDK.
+[43887] Warning: Qt Account sign-up failed: "hazemsaa60@gmail.com"
+[44916] Warning: Qt Account sign-up failed: "hazemsaa60@gmail.com"
+[244970] Saving licenses to file: "C:/Users/asus/AppData/Roaming/Qt/qtlicenses.ini"
+[244972] Saving Qt Account settings to file: "C:/Users/asus/AppData/Roaming/Qt/qtaccount.ini"
+[245493] "Conditions préalables à l'installation ok, l'installation peut continuer !" [ "success" ]
+[252178] Préparation du téléchargement des métadonnées...
+[257375] TargetDirectoryInUse : Erreur : Le répertoire sélectionné existe déjà et contient une installation. Choisissez une autre cible pour l’installation.
+[319862] OverwriteTargetDirectory : Avertissement : Vous avez sélectionné un répertoire existant et non vide pour l’installation.
+Notez qu’il va être entièrement effacé lors de la désinstallation de l’application.
+Il n’est pas conseillé d’effectuer l’installation dans ce répertoire car elle risque d’échouer.
+Souhaitez-vous continuer ? Yes|No
+[395122] Installation space required: "7.07 Go" Temporary space required: "256.00 Mo" Local repository size: "0.00 octets"
+[395129] Tmp and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "68.76 Go"
+[396271] Saving uuid for: "hazemsaa60@gmail.com"
+[396289] backup  operation: Mkdir
+[396292] 	- arguments: C:/Qt
+[396293] Done
+[396293] perform  operation: Mkdir
+[396293] 	- arguments: C:/Qt
+[396294] Done
+[396295] Préparation de l’installation...
+[396298] Install size: 22 components
+[399540] Installation du composant Qt Installer Changelog
+[399541] backup qt.installer.changelog operation: Extract
+[399541] 	- arguments: installer://qt.installer.changelog/%MAINTENANCE_TOOL_VERSION%dist.7z, C:/Qt
+[399541] Done
+[399541] perform qt.installer.changelog operation: Extract
+[399541] 	- arguments: installer://qt.installer.changelog/%MAINTENANCE_TOOL_VERSION%dist.7z, C:/Qt
+[399566] Done
+[399573] Installation du composant Qt 3rd Party Licenses
+[399573] backup qt.license.thirdparty operation: Extract
+[399573] 	- arguments: installer://qt.license.thirdparty/1.0.0-1Licenses.7z, C:/Qt
+[399573] Done
+[399574] perform qt.license.thirdparty operation: Extract
+[399574] 	- arguments: installer://qt.license.thirdparty/1.0.0-1Licenses.7z, C:/Qt
+[399587] Done
+[399590] Installation du composant Qt License LGPL
+[399591] backup qt.license.lgpl operation: License
+[399591] 	- arguments:
+[399591] Done
+[399591] perform qt.license.lgpl operation: License
+[399591] 	- arguments:
+[399593] Done
+[399626] Installation du composant Qt 5.12.12 Examples
+[399626] backup qt.qt5.51212.examples operation: Extract
+[399626] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qt3d-examples-5.12.12.7z, C:/Qt
+[399626] Done
+[399626] perform qt.qt5.51212.examples operation: Extract
+[399626] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qt3d-examples-5.12.12.7z, C:/Qt
+[401142] Done
+[401142] backup qt.qt5.51212.examples operation: Extract
+[401142] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtactiveqt-examples-5.12.12.7z, C:/Qt
+[401142] Done
+[401142] perform qt.qt5.51212.examples operation: Extract
+[401142] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtactiveqt-examples-5.12.12.7z, C:/Qt
+[401326] Done
+[401326] backup qt.qt5.51212.examples operation: Extract
+[401326] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtandroidextras-examples-5.12.12.7z, C:/Qt
+[401326] Done
+[401327] perform qt.qt5.51212.examples operation: Extract
+[401327] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtandroidextras-examples-5.12.12.7z, C:/Qt
+[401362] Done
+[401363] backup qt.qt5.51212.examples operation: Extract
+[401363] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtbase-examples-5.12.12.7z, C:/Qt
+[401363] Done
+[401363] perform qt.qt5.51212.examples operation: Extract
+[401363] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtbase-examples-5.12.12.7z, C:/Qt
+[404673] Done
+[404673] backup qt.qt5.51212.examples operation: Extract
+[404673] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtcanvas3d-examples-5.12.12.7z, C:/Qt
+[404673] Done
+[404673] perform qt.qt5.51212.examples operation: Extract
+[404673] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtcanvas3d-examples-5.12.12.7z, C:/Qt
+[405357] Done
+[405357] backup qt.qt5.51212.examples operation: Extract
+[405358] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtconnectivity-examples-5.12.12.7z, C:/Qt
+[405358] Done
+[405358] perform qt.qt5.51212.examples operation: Extract
+[405358] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtconnectivity-examples-5.12.12.7z, C:/Qt
+[405745] Done
+[405746] backup qt.qt5.51212.examples operation: Extract
+[405746] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtdeclarative-examples-5.12.12.7z, C:/Qt
+[405746] Done
+[405746] perform qt.qt5.51212.examples operation: Extract
+[405746] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtdeclarative-examples-5.12.12.7z, C:/Qt
+[407279] Done
+[407280] backup qt.qt5.51212.examples operation: Extract
+[407280] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtdoc-examples-5.12.12.7z, C:/Qt
+[407280] Done
+[407280] perform qt.qt5.51212.examples operation: Extract
+[407280] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtdoc-examples-5.12.12.7z, C:/Qt
+[407920] Done
+[407920] backup qt.qt5.51212.examples operation: Extract
+[407920] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtgamepad-examples-5.12.12.7z, C:/Qt
+[407920] Done
+[407920] perform qt.qt5.51212.examples operation: Extract
+[407920] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtgamepad-examples-5.12.12.7z, C:/Qt
+[408040] Done
+[408041] backup qt.qt5.51212.examples operation: Extract
+[408041] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtgraphicaleffects-examples-5.12.12.7z, C:/Qt
+[408041] Done
+[408041] perform qt.qt5.51212.examples operation: Extract
+[408041] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtgraphicaleffects-examples-5.12.12.7z, C:/Qt
+[408047] Done
+[408047] backup qt.qt5.51212.examples operation: Extract
+[408047] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtimageformats-examples-5.12.12.7z, C:/Qt
+[408047] Done
+[408048] perform qt.qt5.51212.examples operation: Extract
+[408048] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtimageformats-examples-5.12.12.7z, C:/Qt
+[408054] Done
+[408054] backup qt.qt5.51212.examples operation: Extract
+[408054] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtlocation-examples-5.12.12.7z, C:/Qt
+[408054] Done
+[408054] perform qt.qt5.51212.examples operation: Extract
+[408054] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtlocation-examples-5.12.12.7z, C:/Qt
+[408495] Done
+[408496] backup qt.qt5.51212.examples operation: Extract
+[408496] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtmacextras-examples-5.12.12.7z, C:/Qt
+[408496] Done
+[408496] perform qt.qt5.51212.examples operation: Extract
+[408496] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtmacextras-examples-5.12.12.7z, C:/Qt
+[408536] Done
+[408536] backup qt.qt5.51212.examples operation: Extract
+[408536] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtmultimedia-examples-5.12.12.7z, C:/Qt
+[408536] Done
+[408536] perform qt.qt5.51212.examples operation: Extract
+[408536] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtmultimedia-examples-5.12.12.7z, C:/Qt
+[409166] Done
+[409166] backup qt.qt5.51212.examples operation: Extract
+[409166] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtquickcontrols-examples-5.12.12.7z, C:/Qt
+[409166] Done
+[409166] perform qt.qt5.51212.examples operation: Extract
+[409166] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtquickcontrols-examples-5.12.12.7z, C:/Qt
+[409545] Done
+[409545] backup qt.qt5.51212.examples operation: Extract
+[409545] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtquickcontrols2-examples-5.12.12.7z, C:/Qt
+[409545] Done
+[409545] perform qt.qt5.51212.examples operation: Extract
+[409545] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtquickcontrols2-examples-5.12.12.7z, C:/Qt
+[411263] Done
+[411264] backup qt.qt5.51212.examples operation: Extract
+[411264] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtremoteobjects-examples-5.12.12.7z, C:/Qt
+[411264] Done
+[411264] perform qt.qt5.51212.examples operation: Extract
+[411264] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtremoteobjects-examples-5.12.12.7z, C:/Qt
+[411376] Done
+[411377] backup qt.qt5.51212.examples operation: Extract
+[411377] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtscxml-examples-5.12.12.7z, C:/Qt
+[411377] Done
+[411377] perform qt.qt5.51212.examples operation: Extract
+[411377] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtscxml-examples-5.12.12.7z, C:/Qt
+[411569] Done
+[411570] backup qt.qt5.51212.examples operation: Extract
+[411570] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtsensors-examples-5.12.12.7z, C:/Qt
+[411570] Done
+[411570] perform qt.qt5.51212.examples operation: Extract
+[411570] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtsensors-examples-5.12.12.7z, C:/Qt
+[411784] Done
+[411784] backup qt.qt5.51212.examples operation: Extract
+[411784] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtserialbus-examples-5.12.12.7z, C:/Qt
+[411784] Done
+[411784] perform qt.qt5.51212.examples operation: Extract
+[411784] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtserialbus-examples-5.12.12.7z, C:/Qt
+[411883] Done
+[411883] backup qt.qt5.51212.examples operation: Extract
+[411883] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtserialport-examples-5.12.12.7z, C:/Qt
+[411883] Done
+[411883] perform qt.qt5.51212.examples operation: Extract
+[411883] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtserialport-examples-5.12.12.7z, C:/Qt
+[411976] Done
+[411977] backup qt.qt5.51212.examples operation: Extract
+[411977] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtspeech-examples-5.12.12.7z, C:/Qt
+[411977] Done
+[411977] perform qt.qt5.51212.examples operation: Extract
+[411977] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtspeech-examples-5.12.12.7z, C:/Qt
+[412003] Done
+[412003] backup qt.qt5.51212.examples operation: Extract
+[412003] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtsvg-examples-5.12.12.7z, C:/Qt
+[412003] Done
+[412003] perform qt.qt5.51212.examples operation: Extract
+[412003] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtsvg-examples-5.12.12.7z, C:/Qt
+[412277] Done
+[412278] backup qt.qt5.51212.examples operation: Extract
+[412278] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qttools-examples-5.12.12.7z, C:/Qt
+[412278] Done
+[412278] perform qt.qt5.51212.examples operation: Extract
+[412278] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qttools-examples-5.12.12.7z, C:/Qt
+[412503] Done
+[412504] backup qt.qt5.51212.examples operation: Extract
+[412504] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qttranslations-examples-5.12.12.7z, C:/Qt
+[412504] Done
+[412504] perform qt.qt5.51212.examples operation: Extract
+[412504] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qttranslations-examples-5.12.12.7z, C:/Qt
+[412510] Done
+[412511] backup qt.qt5.51212.examples operation: Extract
+[412511] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwayland-examples-5.12.12.7z, C:/Qt
+[412511] Done
+[412511] perform qt.qt5.51212.examples operation: Extract
+[412511] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwayland-examples-5.12.12.7z, C:/Qt
+[412683] Done
+[412683] backup qt.qt5.51212.examples operation: Extract
+[412684] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwebchannel-examples-5.12.12.7z, C:/Qt
+[412684] Done
+[412684] perform qt.qt5.51212.examples operation: Extract
+[412684] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwebchannel-examples-5.12.12.7z, C:/Qt
+[412753] Done
+[412754] backup qt.qt5.51212.examples operation: Extract
+[412754] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwebsockets-examples-5.12.12.7z, C:/Qt
+[412754] Done
+[412754] perform qt.qt5.51212.examples operation: Extract
+[412754] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwebsockets-examples-5.12.12.7z, C:/Qt
+[412826] Done
+[412826] backup qt.qt5.51212.examples operation: Extract
+[412826] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwebview-examples-5.12.12.7z, C:/Qt
+[412826] Done
+[412827] perform qt.qt5.51212.examples operation: Extract
+[412827] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwebview-examples-5.12.12.7z, C:/Qt
+[412861] Done
+[412862] backup qt.qt5.51212.examples operation: Extract
+[412862] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwinextras-examples-5.12.12.7z, C:/Qt
+[412862] Done
+[412862] perform qt.qt5.51212.examples operation: Extract
+[412862] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtwinextras-examples-5.12.12.7z, C:/Qt
+[412923] Done
+[412923] backup qt.qt5.51212.examples operation: Extract
+[412923] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtx11extras-examples-5.12.12.7z, C:/Qt
+[412923] Done
+[412923] perform qt.qt5.51212.examples operation: Extract
+[412923] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtx11extras-examples-5.12.12.7z, C:/Qt
+[412929] Done
+[412929] backup qt.qt5.51212.examples operation: Extract
+[412929] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtxmlpatterns-examples-5.12.12.7z, C:/Qt
+[412929] Done
+[412929] perform qt.qt5.51212.examples operation: Extract
+[412929] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0qtxmlpatterns-examples-5.12.12.7z, C:/Qt
+[412992] Done
+[412992] backup qt.qt5.51212.examples operation: Extract
+[412992] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0tqtc-qt5-examples-5.12.12.7z, C:/Qt
+[412992] Done
+[412992] perform qt.qt5.51212.examples operation: Extract
+[412992] 	- arguments: installer://qt.qt5.51212.examples/5.12.12-0tqtc-qt5-examples-5.12.12.7z, C:/Qt
+[412999] Done
+[413002] Installation du composant Qt 5.12.12 Documentation
+[413002] backup qt.qt5.51212.doc operation: Extract
+[413003] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0activeqt-documentation.7z, C:/Qt
+[413003] Done
+[413003] perform qt.qt5.51212.doc operation: Extract
+[413003] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0activeqt-documentation.7z, C:/Qt
+[413113] Done
+[413113] backup qt.qt5.51212.doc operation: Extract
+[413113] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qdoc-documentation.7z, C:/Qt
+[413113] Done
+[413113] perform qt.qt5.51212.doc operation: Extract
+[413113] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qdoc-documentation.7z, C:/Qt
+[413206] Done
+[413206] backup qt.qt5.51212.doc operation: Extract
+[413206] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qmake-documentation.7z, C:/Qt
+[413206] Done
+[413206] perform qt.qt5.51212.doc operation: Extract
+[413206] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qmake-documentation.7z, C:/Qt
+[413256] Done
+[413256] backup qt.qt5.51212.doc operation: Extract
+[413256] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qt3d-documentation.7z, C:/Qt
+[413256] Done
+[413256] perform qt.qt5.51212.doc operation: Extract
+[413256] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qt3d-documentation.7z, C:/Qt
+[416497] Done
+[416498] backup qt.qt5.51212.doc operation: Extract
+[416498] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtandroidextras-documentation.7z, C:/Qt
+[416498] Done
+[416498] perform qt.qt5.51212.doc operation: Extract
+[416498] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtandroidextras-documentation.7z, C:/Qt
+[416571] Done
+[416571] backup qt.qt5.51212.doc operation: Extract
+[416571] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtassistant-documentation.7z, C:/Qt
+[416571] Done
+[416571] perform qt.qt5.51212.doc operation: Extract
+[416571] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtassistant-documentation.7z, C:/Qt
+[416742] Done
+[416742] backup qt.qt5.51212.doc operation: Extract
+[416742] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtbluetooth-documentation.7z, C:/Qt
+[416742] Done
+[416742] perform qt.qt5.51212.doc operation: Extract
+[416742] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtbluetooth-documentation.7z, C:/Qt
+[417067] Done
+[417067] backup qt.qt5.51212.doc operation: Extract
+[417067] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtcanvas3d-documentation.7z, C:/Qt
+[417067] Done
+[417067] perform qt.qt5.51212.doc operation: Extract
+[417067] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtcanvas3d-documentation.7z, C:/Qt
+[418323] Done
+[418324] backup qt.qt5.51212.doc operation: Extract
+[418324] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtconcurrent-documentation.7z, C:/Qt
+[418324] Done
+[418324] perform qt.qt5.51212.doc operation: Extract
+[418324] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtconcurrent-documentation.7z, C:/Qt
+[418384] Done
+[418385] backup qt.qt5.51212.doc operation: Extract
+[418385] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtcore-documentation.7z, C:/Qt
+[418385] Done
+[418385] perform qt.qt5.51212.doc operation: Extract
+[418385] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtcore-documentation.7z, C:/Qt
+[419495] Done
+[419496] backup qt.qt5.51212.doc operation: Extract
+[419496] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdbus-documentation.7z, C:/Qt
+[419496] Done
+[419496] perform qt.qt5.51212.doc operation: Extract
+[419496] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdbus-documentation.7z, C:/Qt
+[419621] Done
+[419621] backup qt.qt5.51212.doc operation: Extract
+[419621] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdesigner-documentation.7z, C:/Qt
+[419621] Done
+[419622] perform qt.qt5.51212.doc operation: Extract
+[419622] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdesigner-documentation.7z, C:/Qt
+[420333] Done
+[420333] backup qt.qt5.51212.doc operation: Extract
+[420333] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdistancefieldgenerator-documentation.7z, C:/Qt
+[420333] Done
+[420333] perform qt.qt5.51212.doc operation: Extract
+[420333] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdistancefieldgenerator-documentation.7z, C:/Qt
+[420362] Done
+[420362] backup qt.qt5.51212.doc operation: Extract
+[420362] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdoc-documentation.7z, C:/Qt
+[420362] Done
+[420362] perform qt.qt5.51212.doc operation: Extract
+[420362] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtdoc-documentation.7z, C:/Qt
+[421663] Done
+[421664] backup qt.qt5.51212.doc operation: Extract
+[421664] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtgamepad-documentation.7z, C:/Qt
+[421664] Done
+[421664] perform qt.qt5.51212.doc operation: Extract
+[421664] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtgamepad-documentation.7z, C:/Qt
+[421810] Done
+[421810] backup qt.qt5.51212.doc operation: Extract
+[421810] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtgraphicaleffects-documentation.7z, C:/Qt
+[421810] Done
+[421810] perform qt.qt5.51212.doc operation: Extract
+[421810] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtgraphicaleffects-documentation.7z, C:/Qt
+[423225] Done
+[423226] backup qt.qt5.51212.doc operation: Extract
+[423226] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtgui-documentation.7z, C:/Qt
+[423226] Done
+[423226] perform qt.qt5.51212.doc operation: Extract
+[423226] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtgui-documentation.7z, C:/Qt
+[424957] Done
+[424957] backup qt.qt5.51212.doc operation: Extract
+[424957] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qthelp-documentation.7z, C:/Qt
+[424957] Done
+[424958] perform qt.qt5.51212.doc operation: Extract
+[424958] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qthelp-documentation.7z, C:/Qt
+[425577] Done
+[425577] backup qt.qt5.51212.doc operation: Extract
+[425577] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtimageformats-documentation.7z, C:/Qt
+[425577] Done
+[425577] perform qt.qt5.51212.doc operation: Extract
+[425577] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtimageformats-documentation.7z, C:/Qt
+[425607] Done
+[425607] backup qt.qt5.51212.doc operation: Extract
+[425607] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlabscalendar-documentation.7z, C:/Qt
+[425607] Done
+[425607] perform qt.qt5.51212.doc operation: Extract
+[425607] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlabscalendar-documentation.7z, C:/Qt
+[425677] Done
+[425677] backup qt.qt5.51212.doc operation: Extract
+[425677] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlabsplatform-documentation.7z, C:/Qt
+[425677] Done
+[425677] perform qt.qt5.51212.doc operation: Extract
+[425677] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlabsplatform-documentation.7z, C:/Qt
+[425806] Done
+[425806] backup qt.qt5.51212.doc operation: Extract
+[425806] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlinguist-documentation.7z, C:/Qt
+[425806] Done
+[425806] perform qt.qt5.51212.doc operation: Extract
+[425806] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlinguist-documentation.7z, C:/Qt
+[425959] Done
+[425959] backup qt.qt5.51212.doc operation: Extract
+[425959] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlocation-documentation.7z, C:/Qt
+[425959] Done
+[425960] perform qt.qt5.51212.doc operation: Extract
+[425960] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtlocation-documentation.7z, C:/Qt
+[427455] Done
+[427455] backup qt.qt5.51212.doc operation: Extract
+[427455] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtmacextras-documentation.7z, C:/Qt
+[427455] Done
+[427455] perform qt.qt5.51212.doc operation: Extract
+[427455] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtmacextras-documentation.7z, C:/Qt
+[427612] Done
+[427612] backup qt.qt5.51212.doc operation: Extract
+[427612] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtmultimedia-documentation.7z, C:/Qt
+[427612] Done
+[427612] perform qt.qt5.51212.doc operation: Extract
+[427612] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtmultimedia-documentation.7z, C:/Qt
+[429336] Done
+[429336] backup qt.qt5.51212.doc operation: Extract
+[429336] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtnetwork-documentation.7z, C:/Qt
+[429336] Done
+[429336] perform qt.qt5.51212.doc operation: Extract
+[429336] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtnetwork-documentation.7z, C:/Qt
+[429845] Done
+[429845] backup qt.qt5.51212.doc operation: Extract
+[429845] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtnfc-documentation.7z, C:/Qt
+[429845] Done
+[429845] perform qt.qt5.51212.doc operation: Extract
+[429845] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtnfc-documentation.7z, C:/Qt
+[430015] Done
+[430016] backup qt.qt5.51212.doc operation: Extract
+[430016] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtopengl-documentation.7z, C:/Qt
+[430016] Done
+[430016] perform qt.qt5.51212.doc operation: Extract
+[430016] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtopengl-documentation.7z, C:/Qt
+[430231] Done
+[430231] backup qt.qt5.51212.doc operation: Extract
+[430231] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtplatformheaders-documentation.7z, C:/Qt
+[430231] Done
+[430231] perform qt.qt5.51212.doc operation: Extract
+[430231] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtplatformheaders-documentation.7z, C:/Qt
+[430352] Done
+[430352] backup qt.qt5.51212.doc operation: Extract
+[430352] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtpositioning-documentation.7z, C:/Qt
+[430352] Done
+[430352] perform qt.qt5.51212.doc operation: Extract
+[430352] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtpositioning-documentation.7z, C:/Qt
+[431190] Done
+[431190] backup qt.qt5.51212.doc operation: Extract
+[431190] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtprintsupport-documentation.7z, C:/Qt
+[431190] Done
+[431191] perform qt.qt5.51212.doc operation: Extract
+[431191] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtprintsupport-documentation.7z, C:/Qt
+[431280] Done
+[431281] backup qt.qt5.51212.doc operation: Extract
+[431281] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtqml-documentation.7z, C:/Qt
+[431281] Done
+[431281] perform qt.qt5.51212.doc operation: Extract
+[431281] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtqml-documentation.7z, C:/Qt
+[432283] Done
+[432283] backup qt.qt5.51212.doc operation: Extract
+[432283] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtqmltest-documentation.7z, C:/Qt
+[432283] Done
+[432283] perform qt.qt5.51212.doc operation: Extract
+[432283] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtqmltest-documentation.7z, C:/Qt
+[432315] Done
+[432315] backup qt.qt5.51212.doc operation: Extract
+[432315] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquick-documentation.7z, C:/Qt
+[432315] Done
+[432315] perform qt.qt5.51212.doc operation: Extract
+[432315] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquick-documentation.7z, C:/Qt
+[435712] Done
+[435712] backup qt.qt5.51212.doc operation: Extract
+[435712] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickcontrols-documentation.7z, C:/Qt
+[435712] Done
+[435712] perform qt.qt5.51212.doc operation: Extract
+[435712] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickcontrols-documentation.7z, C:/Qt
+[437616] Done
+[437616] backup qt.qt5.51212.doc operation: Extract
+[437616] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickcontrols1-documentation.7z, C:/Qt
+[437616] Done
+[437617] perform qt.qt5.51212.doc operation: Extract
+[437617] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickcontrols1-documentation.7z, C:/Qt
+[438009] Done
+[438009] backup qt.qt5.51212.doc operation: Extract
+[438009] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickdialogs-documentation.7z, C:/Qt
+[438009] Done
+[438010] perform qt.qt5.51212.doc operation: Extract
+[438010] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickdialogs-documentation.7z, C:/Qt
+[438075] Done
+[438075] backup qt.qt5.51212.doc operation: Extract
+[438075] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickextras-documentation.7z, C:/Qt
+[438075] Done
+[438076] perform qt.qt5.51212.doc operation: Extract
+[438076] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtquickextras-documentation.7z, C:/Qt
+[438478] Done
+[438478] backup qt.qt5.51212.doc operation: Extract
+[438478] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtremoteobjects-documentation.7z, C:/Qt
+[438478] Done
+[438478] perform qt.qt5.51212.doc operation: Extract
+[438478] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtremoteobjects-documentation.7z, C:/Qt
+[438594] Done
+[438594] backup qt.qt5.51212.doc operation: Extract
+[438594] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtscxml-documentation.7z, C:/Qt
+[438594] Done
+[438594] perform qt.qt5.51212.doc operation: Extract
+[438594] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtscxml-documentation.7z, C:/Qt
+[438816] Done
+[438816] backup qt.qt5.51212.doc operation: Extract
+[438816] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtsensors-documentation.7z, C:/Qt
+[438816] Done
+[438816] perform qt.qt5.51212.doc operation: Extract
+[438816] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtsensors-documentation.7z, C:/Qt
+[439436] Done
+[439437] backup qt.qt5.51212.doc operation: Extract
+[439437] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtserialbus-documentation.7z, C:/Qt
+[439437] Done
+[439437] perform qt.qt5.51212.doc operation: Extract
+[439437] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtserialbus-documentation.7z, C:/Qt
+[439591] Done
+[439592] backup qt.qt5.51212.doc operation: Extract
+[439592] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtserialport-documentation.7z, C:/Qt
+[439592] Done
+[439592] perform qt.qt5.51212.doc operation: Extract
+[439592] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtserialport-documentation.7z, C:/Qt
+[439712] Done
+[439713] backup qt.qt5.51212.doc operation: Extract
+[439713] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtspeech-documentation.7z, C:/Qt
+[439713] Done
+[439713] perform qt.qt5.51212.doc operation: Extract
+[439713] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtspeech-documentation.7z, C:/Qt
+[439764] Done
+[439765] backup qt.qt5.51212.doc operation: Extract
+[439765] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtsql-documentation.7z, C:/Qt
+[439765] Done
+[439765] perform qt.qt5.51212.doc operation: Extract
+[439765] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtsql-documentation.7z, C:/Qt
+[440007] Done
+[440007] backup qt.qt5.51212.doc operation: Extract
+[440007] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtsvg-documentation.7z, C:/Qt
+[440007] Done
+[440008] perform qt.qt5.51212.doc operation: Extract
+[440008] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtsvg-documentation.7z, C:/Qt
+[440081] Done
+[440082] backup qt.qt5.51212.doc operation: Extract
+[440082] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qttestlib-documentation.7z, C:/Qt
+[440082] Done
+[440082] perform qt.qt5.51212.doc operation: Extract
+[440082] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qttestlib-documentation.7z, C:/Qt
+[440136] Done
+[440136] backup qt.qt5.51212.doc operation: Extract
+[440136] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtuitools-documentation.7z, C:/Qt
+[440137] Done
+[440137] perform qt.qt5.51212.doc operation: Extract
+[440137] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtuitools-documentation.7z, C:/Qt
+[440190] Done
+[440191] backup qt.qt5.51212.doc operation: Extract
+[440191] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwaylandcompositor-documentation.7z, C:/Qt
+[440191] Done
+[440191] perform qt.qt5.51212.doc operation: Extract
+[440191] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwaylandcompositor-documentation.7z, C:/Qt
+[440403] Done
+[440403] backup qt.qt5.51212.doc operation: Extract
+[440403] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwebchannel-documentation.7z, C:/Qt
+[440403] Done
+[440404] perform qt.qt5.51212.doc operation: Extract
+[440404] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwebchannel-documentation.7z, C:/Qt
+[440474] Done
+[440474] backup qt.qt5.51212.doc operation: Extract
+[440474] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwebsockets-documentation.7z, C:/Qt
+[440474] Done
+[440474] perform qt.qt5.51212.doc operation: Extract
+[440474] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwebsockets-documentation.7z, C:/Qt
+[440563] Done
+[440563] backup qt.qt5.51212.doc operation: Extract
+[440563] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwebview-documentation.7z, C:/Qt
+[440563] Done
+[440563] perform qt.qt5.51212.doc operation: Extract
+[440563] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwebview-documentation.7z, C:/Qt
+[440613] Done
+[440614] backup qt.qt5.51212.doc operation: Extract
+[440614] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwidgets-documentation.7z, C:/Qt
+[440614] Done
+[440614] perform qt.qt5.51212.doc operation: Extract
+[440614] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwidgets-documentation.7z, C:/Qt
+[444495] Done
+[444495] backup qt.qt5.51212.doc operation: Extract
+[444495] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwinextras-documentation.7z, C:/Qt
+[444495] Done
+[444495] perform qt.qt5.51212.doc operation: Extract
+[444496] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtwinextras-documentation.7z, C:/Qt
+[444624] Done
+[444624] backup qt.qt5.51212.doc operation: Extract
+[444624] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtx11extras-documentation.7z, C:/Qt
+[444624] Done
+[444624] perform qt.qt5.51212.doc operation: Extract
+[444624] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtx11extras-documentation.7z, C:/Qt
+[444647] Done
+[444647] backup qt.qt5.51212.doc operation: Extract
+[444647] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtxml-documentation.7z, C:/Qt
+[444647] Done
+[444647] perform qt.qt5.51212.doc operation: Extract
+[444647] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtxml-documentation.7z, C:/Qt
+[444769] Done
+[444769] backup qt.qt5.51212.doc operation: Extract
+[444769] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtxmlpatterns-documentation.7z, C:/Qt
+[444769] Done
+[444769] perform qt.qt5.51212.doc operation: Extract
+[444769] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0qtxmlpatterns-documentation.7z, C:/Qt
+[444924] Done
+[444924] backup qt.qt5.51212.doc operation: Extract
+[444924] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0tqtc-qt5-documentation.7z, C:/Qt
+[444924] Done
+[444924] perform qt.qt5.51212.doc operation: Extract
+[444924] 	- arguments: installer://qt.qt5.51212.doc/5.12.12-0tqtc-qt5-documentation.7z, C:/Qt
+[445013] Done
+[445016] Installation du composant Qt 5.12.12
+[445017] backup qt.qt5.51212 operation: Extract
+[445017] 	- arguments: installer://qt.qt5.51212/5.12.12-0sha1s.txt.7z, C:/Qt
+[445017] Done
+[445018] perform qt.qt5.51212 operation: Extract
+[445018] 	- arguments: installer://qt.qt5.51212/5.12.12-0sha1s.txt.7z, C:/Qt
+[445027] Done
+[445031] Installation du composant VCRedist for MSVC 2019 32bit
+[445031] backup qt.tools.vcredist_msvc2019_x86 operation: Extract
+[445031] 	- arguments: installer://qt.tools.vcredist_msvc2019_x86/2019-05-19-1vcredist_msvc2019_x86.7z, C:/Qt
+[445031] Done
+[445032] perform qt.tools.vcredist_msvc2019_x86 operation: Extract
+[445032] 	- arguments: installer://qt.tools.vcredist_msvc2019_x86/2019-05-19-1vcredist_msvc2019_x86.7z, C:/Qt
+[445198] Done
+[445201] Installation du composant VCRedist for MSVC 2019 64bit
+[445202] backup qt.tools.vcredist_msvc2019_x64 operation: Extract
+[445202] 	- arguments: installer://qt.tools.vcredist_msvc2019_x64/2020-05-19-1vcredist_msvc2019_x64.7z, C:/Qt
+[445202] Done
+[445202] perform qt.tools.vcredist_msvc2019_x64 operation: Extract
+[445202] 	- arguments: installer://qt.tools.vcredist_msvc2019_x64/2020-05-19-1vcredist_msvc2019_x64.7z, C:/Qt
+[446048] Done
+[446051] Installation du composant License GPL3-EXCEPT
+[446051] backup qt.license.gplv3except operation: License
+[446051] 	- arguments:
+[446051] Done
+[446051] perform qt.license.gplv3except operation: License
+[446051] 	- arguments:
+[446053] Done
+[446065] Installation du composant VCRedist for MSVC 32bit
+[446066] backup qt.tools.vcredist operation: Extract
+[446066] 	- arguments: installer://qt.tools.vcredist/2011-03-03-1vcredist_x86.7z, C:/Qt
+[446066] Done
+[446066] perform qt.tools.vcredist operation: Extract
+[446066] 	- arguments: installer://qt.tools.vcredist/2011-03-03-1vcredist_x86.7z, C:/Qt
+[446109] Done
+[446111] Installation du composant VCRedist for MSVC 64bit
+[446112] backup qt.tools.vcredist_64 operation: Extract
+[446112] 	- arguments: installer://qt.tools.vcredist_64/2019-10-29vcredist_x64.7z, C:/Qt
+[446112] Done
+[446112] perform qt.tools.vcredist_64 operation: Extract
+[446112] 	- arguments: installer://qt.tools.vcredist_64/2019-10-29vcredist_x64.7z, C:/Qt
+[446818] Done
+[446822] Installation du composant Qt Creator 5.0.2
+[446822] backup qt.tools.qtcreator operation: Extract
+[446822] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0jom.7z, C:/Qt
+[446822] Done
+[446823] perform qt.tools.qtcreator operation: Extract
+[446823] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0jom.7z, C:/Qt
+[446904] Done
+[446904] backup qt.tools.qtcreator operation: Extract
+[446904] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0qtcreator.7z, C:/Qt
+[446904] Done
+[446904] perform qt.tools.qtcreator operation: Extract
+[446904] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0qtcreator.7z, C:/Qt
+[465540] Done
+[465540] backup qt.tools.qtcreator operation: Extract
+[465540] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0qtcreator_sdktool.7z, C:/Qt
+[465540] Done
+[465540] perform qt.tools.qtcreator operation: Extract
+[465540] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0qtcreator_sdktool.7z, C:/Qt
+[465665] Done
+[465665] backup qt.tools.qtcreator operation: Extract
+[465665] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0wininterrupt32.7z, C:/Qt
+[465665] Done
+[465665] perform qt.tools.qtcreator operation: Extract
+[465665] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0wininterrupt32.7z, C:/Qt
+[465673] Done
+[465674] backup qt.tools.qtcreator operation: Extract
+[465674] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0wininterrupt64.7z, C:/Qt
+[465674] Done
+[465674] perform qt.tools.qtcreator operation: Extract
+[465674] 	- arguments: installer://qt.tools.qtcreator/5.0.2-0wininterrupt64.7z, C:/Qt
+[465680] Done
+[465680] backup qt.tools.qtcreator operation: CreateShortcut
+[465680] 	- arguments: C:\Qt\\Tools\QtCreator\bin\qtcreator.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator\Qt Creator 5.0.2 (Community).lnk, workingDirectory=C:/Users/asus
+[465695] Done
+[465696] perform qt.tools.qtcreator operation: CreateShortcut
+[465696] 	- arguments: C:\Qt\\Tools\QtCreator\bin\qtcreator.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator\Qt Creator 5.0.2 (Community).lnk
+[465890] Done
+[465890] backup qt.tools.qtcreator operation: RegisterFileType
+[465890] 	- arguments: ui, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt UI file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,4, ProgId=QtProject.QtCreator.ui
+[465890] Done
+[465891] perform qt.tools.qtcreator operation: RegisterFileType
+[465891] 	- arguments: ui, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt UI file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,4, ProgId=QtProject.QtCreator.ui
+[465904] Done
+[465904] backup qt.tools.qtcreator operation: RegisterFileType
+[465904] 	- arguments: pro, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.pro
+[465904] Done
+[465904] perform qt.tools.qtcreator operation: RegisterFileType
+[465904] 	- arguments: pro, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.pro
+[465910] Done
+[465910] backup qt.tools.qtcreator operation: RegisterFileType
+[465910] 	- arguments: pri, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project Include file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,6, ProgId=QtProject.QtCreator.pri
+[465910] Done
+[465911] perform qt.tools.qtcreator operation: RegisterFileType
+[465911] 	- arguments: pri, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project Include file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,6, ProgId=QtProject.QtCreator.pri
+[465916] Done
+[465917] backup qt.tools.qtcreator operation: RegisterFileType
+[465917] 	- arguments: qbs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qbs Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.qbs
+[465917] Done
+[465917] perform qt.tools.qtcreator operation: RegisterFileType
+[465917] 	- arguments: qbs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qbs Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.qbs
+[465922] Done
+[465922] backup qt.tools.qtcreator operation: RegisterFileType
+[465922] 	- arguments: qs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Script file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,0, ProgId=QtProject.QtCreator.qs
+[465922] Done
+[465922] perform qt.tools.qtcreator operation: RegisterFileType
+[465922] 	- arguments: qs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Script file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,0, ProgId=QtProject.QtCreator.qs
+[465927] Done
+[465927] backup qt.tools.qtcreator operation: RegisterFileType
+[465927] 	- arguments: qml, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Quick Markup language file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,7, ProgId=QtProject.QtCreator.qml
+[465927] Done
+[465928] perform qt.tools.qtcreator operation: RegisterFileType
+[465928] 	- arguments: qml, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Quick Markup language file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,7, ProgId=QtProject.QtCreator.qml
+[465933] Done
+[465933] backup qt.tools.qtcreator operation: RegisterFileType
+[465933] 	- arguments: h, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h
+[465933] Done
+[465933] perform qt.tools.qtcreator operation: RegisterFileType
+[465933] 	- arguments: h, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h
+[465940] Done
+[465940] backup qt.tools.qtcreator operation: RegisterFileType
+[465940] 	- arguments: hh, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hh
+[465940] Done
+[465940] perform qt.tools.qtcreator operation: RegisterFileType
+[465940] 	- arguments: hh, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hh
+[465947] Done
+[465947] backup qt.tools.qtcreator operation: RegisterFileType
+[465947] 	- arguments: hxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hxx
+[465947] Done
+[465947] perform qt.tools.qtcreator operation: RegisterFileType
+[465948] 	- arguments: hxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hxx
+[465955] Done
+[465955] backup qt.tools.qtcreator operation: RegisterFileType
+[465955] 	- arguments: h++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h++
+[465955] Done
+[465955] perform qt.tools.qtcreator operation: RegisterFileType
+[465955] 	- arguments: h++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h++
+[465962] Done
+[465962] backup qt.tools.qtcreator operation: RegisterFileType
+[465962] 	- arguments: hpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hpp
+[465962] Done
+[465963] perform qt.tools.qtcreator operation: RegisterFileType
+[465963] 	- arguments: hpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hpp
+[465969] Done
+[465970] backup qt.tools.qtcreator operation: RegisterFileType
+[465970] 	- arguments: cc, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cc
+[465970] Done
+[465970] perform qt.tools.qtcreator operation: RegisterFileType
+[465970] 	- arguments: cc, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cc
+[465976] Done
+[465976] backup qt.tools.qtcreator operation: RegisterFileType
+[465976] 	- arguments: cxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cxx
+[465976] Done
+[465977] perform qt.tools.qtcreator operation: RegisterFileType
+[465977] 	- arguments: cxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cxx
+[465983] Done
+[465983] backup qt.tools.qtcreator operation: RegisterFileType
+[465983] 	- arguments: c++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.c++
+[465983] Done
+[465984] perform qt.tools.qtcreator operation: RegisterFileType
+[465984] 	- arguments: c++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.c++
+[465990] Done
+[465990] backup qt.tools.qtcreator operation: RegisterFileType
+[465990] 	- arguments: cp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cp
+[465990] Done
+[465990] perform qt.tools.qtcreator operation: RegisterFileType
+[465990] 	- arguments: cp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cp
+[465996] Done
+[465997] backup qt.tools.qtcreator operation: RegisterFileType
+[465997] 	- arguments: cpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cpp
+[465997] Done
+[465997] perform qt.tools.qtcreator operation: RegisterFileType
+[465997] 	- arguments: cpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cpp
+[466003] Done
+[466004] backup qt.tools.qtcreator operation: RegisterFileType
+[466004] 	- arguments: c, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,1, ProgId=QtProject.QtCreator.c
+[466004] Done
+[466004] perform qt.tools.qtcreator operation: RegisterFileType
+[466004] 	- arguments: c, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,1, ProgId=QtProject.QtCreator.c
+[466010] Done
+[466013] Installation du composant MinGW 7.3.0 64-bit
+[466013] backup qt.tools.win64_mingw730 operation: Extract
+[466013] 	- arguments: installer://qt.tools.win64_mingw730/7.3.0-1x86_64-7.3.0-release-posix-seh-rt_v5-rev0.7z, C:/Qt
+[466013] Done
+[466013] perform qt.tools.win64_mingw730 operation: Extract
+[466013] 	- arguments: installer://qt.tools.win64_mingw730/7.3.0-1x86_64-7.3.0-release-posix-seh-rt_v5-rev0.7z, C:/Qt
+[493271] Done
+[493271] backup qt.tools.win64_mingw730 operation: Execute
+[493272] 	- arguments: {0,2}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc, --name, MinGW 7.3.0 64-bit for C, --path, C:/Qt/Tools/mingw730_64/bin/gcc.exe, --abi, x86-windows-msys-pe-64bit, --language, C, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc
+[493272] Done
+[493272] perform qt.tools.win64_mingw730 operation: Execute
+[493272] 	- arguments: {0,2}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc, --name, MinGW 7.3.0 64-bit for C, --path, C:/Qt/Tools/mingw730_64/bin/gcc.exe, --abi, x86-windows-msys-pe-64bit, --language, C, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc
+[493444] C:\\Qt\\/Tools/QtCreator\\bin\\sdktool.exe" started, arguments: "addTC --id ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc --name MinGW 7.3.0 64-bit for C --path C:/Qt/Tools/mingw730_64/bin/gcc.exe --abi x86-windows-msys-pe-64bit --language C --supportedAbis x86-windows-msys-pe-64bit
+[494035] Done
+[494035] backup qt.tools.win64_mingw730 operation: Execute
+[494035] 	- arguments: {0,2}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++, --name, MinGW 7.3.0 64-bit for C++, --path, C:/Qt/Tools/mingw730_64/bin/g++.exe, --abi, x86-windows-msys-pe-64bit, --language, Cxx, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++
+[494035] Done
+[494036] perform qt.tools.win64_mingw730 operation: Execute
+[494036] 	- arguments: {0,2}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++, --name, MinGW 7.3.0 64-bit for C++, --path, C:/Qt/Tools/mingw730_64/bin/g++.exe, --abi, x86-windows-msys-pe-64bit, --language, Cxx, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++
+[494042] C:\\Qt\\/Tools/QtCreator\\bin\\sdktool.exe" started, arguments: "addTC --id ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++ --name MinGW 7.3.0 64-bit for C++ --path C:/Qt/Tools/mingw730_64/bin/g++.exe --abi x86-windows-msys-pe-64bit --language Cxx --supportedAbis x86-windows-msys-pe-64bit
+[494508] Done
+[494509] backup qt.tools.win64_mingw730 operation: Execute
+[494509] 	- arguments: {0,2}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addDebugger, --id, Debugger.qt.tools.win64_mingw730, --name, GNU gdb 8.1 for MinGW 7.3.0 64-bit, --binary, C:/Qt/Tools/mingw730_64/bin/gdb.exe, --abis, x86-windows-msys-pe-64bit, --engine, 1, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmDebugger, --id, Debugger.qt.tools.win64_mingw730
+[494509] Done
+[494509] perform qt.tools.win64_mingw730 operation: Execute
+[494509] 	- arguments: {0,2}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addDebugger, --id, Debugger.qt.tools.win64_mingw730, --name, GNU gdb 8.1 for MinGW 7.3.0 64-bit, --binary, C:/Qt/Tools/mingw730_64/bin/gdb.exe, --abis, x86-windows-msys-pe-64bit, --engine, 1, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmDebugger, --id, Debugger.qt.tools.win64_mingw730
+[494514] C:\\Qt\\/Tools/QtCreator\\bin\\sdktool.exe" started, arguments: "addDebugger --id Debugger.qt.tools.win64_mingw730 --name GNU gdb 8.1 for MinGW 7.3.0 64-bit --binary C:/Qt/Tools/mingw730_64/bin/gdb.exe --abis x86-windows-msys-pe-64bit --engine 1
+[494575] Done
+[494576] backup qt.tools.win64_mingw730 operation: Execute
+[494576] 	- arguments: {0,4}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addKeys, android, MakeExtraSearchDirectory, QString:C:/Qt/Tools/mingw730_64/bin
+[494576] Done
+[494576] perform qt.tools.win64_mingw730 operation: Execute
+[494576] 	- arguments: {0,4}, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addKeys, android, MakeExtraSearchDirectory, QString:C:/Qt/Tools/mingw730_64/bin
+[494583] C:\\Qt\\/Tools/QtCreator\\bin\\sdktool.exe" started, arguments: "addKeys android MakeExtraSearchDirectory QString:C:/Qt/Tools/mingw730_64/bin
+[494635] Done
+[494637] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[494637] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0d3dcompiler_47-x64.7z, C:/Qt
+[494637] Done
+[494637] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[494637] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0d3dcompiler_47-x64.7z, C:/Qt
+[494818] Done
+[494819] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[494819] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0opengl32sw-64-mesa_12_0_rc2.7z, C:/Qt
+[494819] Done
+[494819] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[494819] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0opengl32sw-64-mesa_12_0_rc2.7z, C:/Qt
+[495448] Done
+[495448] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[495448] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qt3d-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[495448] Done
+[495448] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[495448] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qt3d-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[506984] Done
+[506985] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[506985] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtactiveqt-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[506985] Done
+[506985] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[506985] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtactiveqt-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[507476] Done
+[507476] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[507476] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtbase-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[507476] Done
+[507477] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[507477] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtbase-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[531141] Done
+[531141] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[531141] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtcanvas3d-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[531141] Done
+[531141] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[531141] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtcanvas3d-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[531818] Done
+[531818] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[531818] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtconnectivity-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[531818] Done
+[531818] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[531818] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtconnectivity-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[532858] Done
+[532858] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[532858] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtdeclarative-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[532858] Done
+[532858] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[532858] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtdeclarative-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[543768] Done
+[543768] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[543768] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtgamepad-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[543768] Done
+[543768] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[543768] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtgamepad-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[543957] Done
+[543957] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[543957] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtgraphicaleffects-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[543957] Done
+[543958] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[543958] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtgraphicaleffects-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[544108] Done
+[544108] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[544108] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtimageformats-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[544108] Done
+[544108] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[544108] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtimageformats-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[544321] Done
+[544321] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[544321] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtlocation-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[544321] Done
+[544322] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[544322] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtlocation-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[554013] Done
+[554013] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[554013] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtmultimedia-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[554013] Done
+[554013] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[554013] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtmultimedia-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[556182] Done
+[556182] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[556182] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtquickcontrols-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[556182] Done
+[556183] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[556183] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtquickcontrols-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[557705] Done
+[557705] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[557705] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtquickcontrols2-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[557705] Done
+[557705] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[557705] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtquickcontrols2-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[561456] Done
+[561457] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[561457] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtremoteobjects-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[561457] Done
+[561457] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[561457] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtremoteobjects-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[561955] Done
+[561956] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[561956] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtscxml-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[561956] Done
+[561956] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[561956] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtscxml-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[562498] Done
+[562499] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[562499] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtsensors-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[562499] Done
+[562499] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[562499] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtsensors-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[563237] Done
+[563237] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[563237] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtserialbus-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[563237] Done
+[563237] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[563237] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtserialbus-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[563739] Done
+[563739] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[563739] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtserialport-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[563739] Done
+[563739] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[563739] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtserialport-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[563825] Done
+[563825] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[563825] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtspeech-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[563825] Done
+[563826] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[563826] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtspeech-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[564044] Done
+[564045] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[564045] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtsvg-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[564045] Done
+[564045] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[564045] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtsvg-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[564489] Done
+[564489] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[564489] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qttools-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[564489] Done
+[564489] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[564489] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qttools-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[573086] Done
+[573087] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[573087] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qttranslations-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[573087] Done
+[573087] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[573087] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qttranslations-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[573508] Done
+[573508] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[573508] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtwebchannel-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[573508] Done
+[573508] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[573508] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtwebchannel-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[573641] Done
+[573641] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[573641] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtwebsockets-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[573641] Done
+[573642] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[573642] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtwebsockets-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[574026] Done
+[574026] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[574026] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtwinextras-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[574027] Done
+[574027] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[574027] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtwinextras-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[574454] Done
+[574454] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[574454] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtxmlpatterns-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[574454] Done
+[574455] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[574455] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0qtxmlpatterns-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[578125] Done
+[578125] backup qt.qt5.51212.win64_mingw73 operation: Extract
+[578125] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0x86_64-7.3.0-release-posix-seh-rt_v5-rev0-runtime.7z, C:/Qt
+[578125] Done
+[578126] perform qt.qt5.51212.win64_mingw73 operation: Extract
+[578126] 	- arguments: installer://qt.qt5.51212.win64_mingw73/5.12.12-0x86_64-7.3.0-release-posix-seh-rt_v5-rev0-runtime.7z, C:/Qt
+[578171] Done
+[578171] backup qt.qt5.51212.win64_mingw73 operation: ConsumeOutput
+[578171] 	- arguments: qt.qt5.51212.win64_mingw73_qmakeoutput, C:/Qt/5.12.12/mingw73_64/bin/qmake.exe, -query
+[578171] Done
+[578171] perform qt.qt5.51212.win64_mingw73 operation: ConsumeOutput
+[578171] 	- arguments: qt.qt5.51212.win64_mingw73_qmakeoutput, C:/Qt/5.12.12/mingw73_64/bin/qmake.exe, -query
+[578412] Done
+[578412] backup qt.qt5.51212.win64_mingw73 operation: QtPatch
+[578412] 	- arguments: windows, C:/Qt/5.12.12/mingw73_64, qt5, QmakeOutputInstallerKey=qt.qt5.51212.win64_mingw73_qmakeoutput
+[578412] Done
+[578412] perform qt.qt5.51212.win64_mingw73 operation: QtPatch
+[578412] 	- arguments: windows, C:/Qt/5.12.12/mingw73_64, qt5, QmakeOutputInstallerKey=qt.qt5.51212.win64_mingw73_qmakeoutput
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DRenderd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DRender.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickScene2Dd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickScene2D.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickRenderd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickRender.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickInputd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickInput.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickExtrasd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickExtras.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickAnimationd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuickAnimation.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DQuick.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DLogicd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DLogic.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DInputd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DInput.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DExtrasd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DExtras.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DCored.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DCore.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DAnimationd.prl'
+[581989] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt53DAnimation.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AxServerd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AxServer.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AxContainerd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AxContainer.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AxBased.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AxBase.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/qtmaind.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/qtmain.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/qtlibpngd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/qtlibpng.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/qtfreetyped.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/qtfreetype.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Xmld.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Xml.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WindowsUIAutomationSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WindowsUIAutomationSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Widgetsd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Widgets.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5VulkanSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5VulkanSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5ThemeSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5ThemeSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Testd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Test.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Sqld.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Sql.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PrintSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PrintSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PlatformCompositorSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PlatformCompositorSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5OpenGLExtensionsd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5OpenGLExtensions.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5OpenGLd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5OpenGL.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Networkd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Network.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Guid.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Gui.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5FontDatabaseSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5FontDatabaseSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5FbSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5FbSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5EventDispatcherSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5EventDispatcherSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5EglSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5EglSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5EdidSupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5EdidSupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DeviceDiscoverySupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DeviceDiscoverySupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DBusd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DBus.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Cored.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Core.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Concurrentd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Concurrent.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Bootstrap.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AccessibilitySupportd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5AccessibilitySupport.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/libGLESv2d.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/libGLESv2.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/libEGLd.prl'
+[581991] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/libEGL.prl'
+[581996] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Nfcd.prl'
+[581996] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Nfc.prl'
+[581996] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Bluetoothd.prl'
+[581996] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Bluetooth.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickWidgetsd.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickWidgets.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickTestd.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickTest.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickShapesd.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickShapes.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickParticlesd.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickParticles.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Quickd.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Quick.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QmlDevTools.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QmlDebugd.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QmlDebug.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Qmld.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Qml.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PacketProtocold.prl'
+[581997] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PacketProtocol.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Gamepadd.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Gamepad.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PositioningQuickd.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5PositioningQuick.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Positioningd.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Positioning.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Locationd.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Location.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5MultimediaWidgetsd.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5MultimediaWidgets.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5MultimediaQuickd.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5MultimediaQuick.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Multimediad.prl'
+[581999] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Multimedia.prl'
+[582001] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickTemplates2d.prl'
+[582001] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickTemplates2.prl'
+[582001] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickControls2d.prl'
+[582001] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5QuickControls2.prl'
+[582002] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5RemoteObjectsd.prl'
+[582002] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5RemoteObjects.prl'
+[582002] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Scxmld.prl'
+[582002] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Scxml.prl'
+[582002] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Sensorsd.prl'
+[582002] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Sensors.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5SerialBusd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5SerialBus.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5SerialPortd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5SerialPort.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5TextToSpeechd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5TextToSpeech.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Svgd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Svg.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5UiToolsd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5UiTools.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Helpd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Help.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Designerd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DesignerComponentsd.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DesignerComponents.prl'
+[582003] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5Designer.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WebChanneld.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WebChannel.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WebSocketsd.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WebSockets.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WinExtrasd.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5WinExtras.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5XmlPatternsd.prl'
+[582004] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5XmlPatterns.prl'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DRender.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DQuickScene2D.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DQuickRender.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DQuickInput.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DQuickExtras.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DQuickAnimation.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DQuick.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DLogic.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DInput.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DExtras.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DCore.pc'
+[582006] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt53DAnimation.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5AxServer.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5AxContainer.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5AxBase.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Xml.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Widgets.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Test.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Sql.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5PrintSupport.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5OpenGLExtensions.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5OpenGL.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Network.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Gui.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5DBus.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Core.pc'
+[582008] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Concurrent.pc'
+[582012] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Nfc.pc'
+[582012] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Bluetooth.pc'
+[582013] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5QuickWidgets.pc'
+[582013] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5QuickTest.pc'
+[582013] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Quick.pc'
+[582013] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Qml.pc'
+[582014] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Gamepad.pc'
+[582014] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5PositioningQuick.pc'
+[582014] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Positioning.pc'
+[582014] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Location.pc'
+[582015] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5MultimediaWidgets.pc'
+[582015] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Multimedia.pc'
+[582016] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5QuickTemplates2.pc'
+[582016] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5QuickControls2.pc'
+[582017] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5RemoteObjects.pc'
+[582017] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Scxml.pc'
+[582017] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Sensors.pc'
+[582017] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5SerialBus.pc'
+[582017] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5SerialPort.pc'
+[582017] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5TextToSpeech.pc'
+[582018] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Svg.pc'
+[582018] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5UiTools.pc'
+[582018] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Help.pc'
+[582018] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5Designer.pc'
+[582018] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5WebChannel.pc'
+[582018] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5WebSockets.pc'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5WinExtras.pc'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5XmlPatterns.pc'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3drender_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3drender.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquick_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickscene2d_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickscene2d.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickrender_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickrender.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickinput_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickinput.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickextras_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickextras.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickanimation_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquickanimation.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dquick.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dlogic_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dlogic.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dinput_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dinput.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dextras_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dextras.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dcore_private.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3dcore.pri'
+[582019] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3danimation_private.pri'
+[582020] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_3danimation.pri'
+[582021] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_axserver_private.pri'
+[582021] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_axserver.pri'
+[582021] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_axcontainer_private.pri'
+[582021] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_axcontainer.pri'
+[582021] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_axbase_private.pri'
+[582021] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_axbase.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_xml_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_xml.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_windowsuiautomation_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_widgets_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_widgets.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_vulkan_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_theme_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_testlib_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_testlib.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_sql_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_sql.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_printsupport_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_printsupport.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_platformcompositor_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_opengl_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_openglextensions_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_openglextensions.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_opengl.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_network_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_network.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_gui_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_gui.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_fontdatabase_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_fb_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_eventdispatcher_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_egl_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_edid_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_devicediscovery_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_dbus_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_dbus.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_core_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_core.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_concurrent_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_concurrent.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_bootstrap_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_accessibility_support_private.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/qmodule.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/qdevice.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/qconfig.pri'
+[582022] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/features/dbuscommon.pri'
+[582026] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_nfc_private.pri'
+[582026] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_nfc.pri'
+[582026] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_bluetooth_private.pri'
+[582026] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_bluetooth.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quick_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quickwidgets_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quickwidgets.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quickshapes_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quickparticles_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quick.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_qml_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_qmltest_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_qmltest.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_qmldevtools_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_qmldebug_private.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_qml.pri'
+[582027] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_packetprotocol_private.pri'
+[582028] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_gamepad_private.pri'
+[582028] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_gamepad.pri'
+[582028] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_positioning_private.pri'
+[582028] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_positioningquick_private.pri'
+[582028] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_positioningquick.pri'
+[582028] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_positioning.pri'
+[582028] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_location_private.pri'
+[582029] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_location.pri'
+[582029] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_qtmultimediaquicktools_private.pri'
+[582029] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_multimedia_private.pri'
+[582029] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_multimediawidgets_private.pri'
+[582029] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_multimediawidgets.pri'
+[582029] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_multimedia.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quicktemplates2_private.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quicktemplates2.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quickcontrols2_private.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_quickcontrols2.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/features/repcserver.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/features/repcmerged.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/features/repccommon.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/features/repcclient.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_repparser_private.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_repparser.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_remoteobjects_private.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_remoteobjects.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_scxml_private.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_scxml.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_sensors_private.pri'
+[582032] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_sensors.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_serialbus_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_serialbus.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_serialport_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_serialport.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_texttospeech_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_texttospeech.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_svg_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_svg.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_uitools_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_uitools.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_uiplugin.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_help_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_help.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_designer_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_designercomponents_private.pri'
+[582033] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_designer.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_webchannel_private.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_webchannel.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_websockets_private.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_websockets.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_winextras_private.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_winextras.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_xmlpatterns_private.pri'
+[582034] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_xmlpatterns.pri'
+[582395] Done
+[582395] backup qt.qt5.51212.win64_mingw73 operation: AppendFile
+[582395] 	- arguments: C:\Qt\5.12.12\mingw73_64\bin\qtenv2.bat, @echo off
+echo Setting up environment for Qt usage...
+set PATH=C:\Qt\5.12.12\mingw73_64\bin;C:/Qt/Tools/mingw730_64\bin;%PATH%
+cd /D C:\Qt\5.12.12\mingw73_64
+
+[582395] Done
+[582395] perform qt.qt5.51212.win64_mingw73 operation: AppendFile
+[582395] 	- arguments: C:\Qt\5.12.12\mingw73_64\bin\qtenv2.bat, @echo off
+echo Setting up environment for Qt usage...
+set PATH=C:\Qt\5.12.12\mingw73_64\bin;C:/Qt/Tools/mingw730_64\bin;%PATH%
+cd /D C:\Qt\5.12.12\mingw73_64
+
+[582396] Done
+[582396] backup qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582396] 	- arguments: C:\Windows\system32\cmd.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Qt 5.12.12 (MinGW 7.3.0 64-bit).lnk, /A /Q /K C:\Qt\5.12.12\mingw73_64\bin\qtenv2.bat
+[582396] Done
+[582396] perform qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582396] 	- arguments: C:\Windows\system32\cmd.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Qt 5.12.12 (MinGW 7.3.0 64-bit).lnk, /A /Q /K C:\Qt\5.12.12\mingw73_64\bin\qtenv2.bat
+[582505] Done
+[582506] backup qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582506] 	- arguments: C:\Qt\5.12.12\mingw73_64/bin/assistant.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Assistant 5.12.12 (MinGW 7.3.0 64-bit).lnk
+[582506] Done
+[582506] perform qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582506] 	- arguments: C:\Qt\5.12.12\mingw73_64/bin/assistant.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Assistant 5.12.12 (MinGW 7.3.0 64-bit).lnk
+[582526] Done
+[582527] backup qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582527] 	- arguments: C:\Qt\5.12.12\mingw73_64/bin/designer.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Designer 5.12.12 (MinGW 7.3.0 64-bit).lnk
+[582527] Done
+[582527] perform qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582527] 	- arguments: C:\Qt\5.12.12\mingw73_64/bin/designer.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Designer 5.12.12 (MinGW 7.3.0 64-bit).lnk
+[582557] Done
+[582558] backup qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582558] 	- arguments: C:\Qt\5.12.12\mingw73_64/bin/linguist.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Linguist 5.12.12 (MinGW 7.3.0 64-bit).lnk
+[582558] Done
+[582558] perform qt.qt5.51212.win64_mingw73 operation: CreateShortcut
+[582558] 	- arguments: C:\Qt\5.12.12\mingw73_64/bin/linguist.exe, C:\Users\asus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt Creator/5.12.12/MinGW 7.3.0 (64-bit)/Linguist 5.12.12 (MinGW 7.3.0 64-bit).lnk
+[582591] Done
+[582591] backup qt.qt5.51212.win64_mingw73 operation: Execute
+[582592] 	- arguments: C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addQt, --id, qt.qt5.51212.win64_mingw73, --name, Qt %{Qt:Version} MinGW 64-bit, --type, Qt4ProjectManager.QtVersion.Desktop, --qmake, C:/Qt/5.12.12/mingw73_64/bin/qmake.exe, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmQt, --id, qt.qt5.51212.win64_mingw73
+[582592] Done
+[582592] perform qt.qt5.51212.win64_mingw73 operation: Execute
+[582592] 	- arguments: C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addQt, --id, qt.qt5.51212.win64_mingw73, --name, Qt %{Qt:Version} MinGW 64-bit, --type, Qt4ProjectManager.QtVersion.Desktop, --qmake, C:/Qt/5.12.12/mingw73_64/bin/qmake.exe, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmQt, --id, qt.qt5.51212.win64_mingw73
+[582760] C:\\Qt\\/Tools/QtCreator\\bin\\sdktool.exe" started, arguments: "addQt --id qt.qt5.51212.win64_mingw73 --name Qt %{Qt:Version} MinGW 64-bit --type Qt4ProjectManager.QtVersion.Desktop --qmake C:/Qt/5.12.12/mingw73_64/bin/qmake.exe
+[582813] Done
+[582813] backup qt.qt5.51212.win64_mingw73 operation: Execute
+[582813] 	- arguments: C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addKit, --id, qt.qt5.51212.win64_mingw73_kit, --name, Desktop Qt %{Qt:Version} MinGW 64-bit, --Ctoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc, --Cxxtoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++, --qt, qt.qt5.51212.win64_mingw73, --debuggerid, Debugger.qt.tools.win64_mingw730, --devicetype, Desktop, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmKit, --id, qt.qt5.51212.win64_mingw73_kit
+[582813] Done
+[582814] perform qt.qt5.51212.win64_mingw73 operation: Execute
+[582814] 	- arguments: C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addKit, --id, qt.qt5.51212.win64_mingw73_kit, --name, Desktop Qt %{Qt:Version} MinGW 64-bit, --Ctoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc, --Cxxtoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++, --qt, qt.qt5.51212.win64_mingw73, --debuggerid, Debugger.qt.tools.win64_mingw730, --devicetype, Desktop, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmKit, --id, qt.qt5.51212.win64_mingw73_kit
+[582820] C:\\Qt\\/Tools/QtCreator\\bin\\sdktool.exe" started, arguments: "addKit --id qt.qt5.51212.win64_mingw73_kit --name Desktop Qt %{Qt:Version} MinGW 64-bit --Ctoolchain ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.gcc --Cxxtoolchain ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw730.g++ --qt qt.qt5.51212.win64_mingw73 --debuggerid Debugger.qt.tools.win64_mingw730 --devicetype Desktop
+[582875] Done
+[582875] backup qt.qt5.51212.win64_mingw73 operation: Settings
+[582875] 	- arguments: path=C:/Qt/5.12.12/mingw73_64/bin/qt.conf, method=set, key=Paths/Prefix, value=..
+[582875] Done
+[582876] perform qt.qt5.51212.win64_mingw73 operation: Settings
+[582876] 	- arguments: path=C:/Qt/5.12.12/mingw73_64/bin/qt.conf, method=set, key=Paths/Prefix, value=..
+[582891] Done
+[582892] backup qt.qt5.51212.win64_mingw73 operation: Settings
+[582892] 	- arguments: path=C:/Qt/5.12.12/mingw73_64/bin/qt.conf, method=set, key=Paths/Examples, value=../../Examples/Qt-5.12.12
+[582892] Done
+[582892] perform qt.qt5.51212.win64_mingw73 operation: Settings
+[582892] 	- arguments: path=C:/Qt/5.12.12/mingw73_64/bin/qt.conf, method=set, key=Paths/Examples, value=../../Examples/Qt-5.12.12
+[582913] Done
+[582913] backup qt.qt5.51212.win64_mingw73 operation: Settings
+[582913] 	- arguments: path=C:/Qt/5.12.12/mingw73_64/bin/qt.conf, method=set, key=Paths/Documentation, value=../../Docs/Qt-5.12.12
+[582913] Done
+[582913] perform qt.qt5.51212.win64_mingw73 operation: Settings
+[582913] 	- arguments: path=C:/Qt/5.12.12/mingw73_64/bin/qt.conf, method=set, key=Paths/Documentation, value=../../Docs/Qt-5.12.12
+[582939] Done
+[582940] backup qt.qt5.51212.win64_mingw73 operation: LineReplace
+[582940] 	- arguments: C:/Qt/5.12.12/mingw73_64/mkspecs/qconfig.pri, QT_EDITION =, QT_EDITION = OpenSource
+[582940] Done
+[582940] perform qt.qt5.51212.win64_mingw73 operation: LineReplace
+[582940] 	- arguments: C:/Qt/5.12.12/mingw73_64/mkspecs/qconfig.pri, QT_EDITION =, QT_EDITION = OpenSource
+[582941] Done
+[582941] backup qt.qt5.51212.win64_mingw73 operation: LineReplace
+[582941] 	- arguments: C:/Qt/5.12.12/mingw73_64/mkspecs/qconfig.pri, QT_LICHECK = licheck.exe, QT_LICHECK =
+[582941] Done
+[582942] perform qt.qt5.51212.win64_mingw73 operation: LineReplace
+[582942] 	- arguments: C:/Qt/5.12.12/mingw73_64/mkspecs/qconfig.pri, QT_LICHECK = licheck.exe, QT_LICHECK =
+[582953] Done
+[582955] Installation du composant Documentation for Qt 5.12.12 GPLv3 components (QtDataVisualization)
+[582956] backup qt.qt5.51212.doc.qtdatavis3d operation: Extract
+[582956] 	- arguments: installer://qt.qt5.51212.doc.qtdatavis3d/5.12.12-0qtdatavisualization-documentation.7z, C:/Qt
+[582956] Done
+[582956] perform qt.qt5.51212.doc.qtdatavis3d operation: Extract
+[582956] 	- arguments: installer://qt.qt5.51212.doc.qtdatavis3d/5.12.12-0qtdatavisualization-documentation.7z, C:/Qt
+[584003] Done
+[584006] Installation du composant Examples for Qt 5.12.12 GPLv3 components (QtDataVisualization)
+[584006] backup qt.qt5.51212.examples.qtdatavis3d operation: Extract
+[584006] 	- arguments: installer://qt.qt5.51212.examples.qtdatavis3d/5.12.12-0qtdatavis3d-examples-5.12.12.7z, C:/Qt
+[584006] Done
+[584006] perform qt.qt5.51212.examples.qtdatavis3d operation: Extract
+[584006] 	- arguments: installer://qt.qt5.51212.examples.qtdatavis3d/5.12.12-0qtdatavis3d-examples-5.12.12.7z, C:/Qt
+[584732] Done
+[584739] Installation du composant Python Software Foundation License Version 2
+[584740] backup qt.license.python operation: License
+[584740] 	- arguments:
+[584740] Done
+[584740] perform qt.license.python operation: License
+[584740] 	- arguments:
+[584742] Done
+[584745] Installation du composant Qt Creator 5.0.2 CDB Debugger Support
+[584746] backup qt.tools.qtcreatorcdbext operation: Extract
+[584746] 	- arguments: installer://qt.tools.qtcreatorcdbext/5.0.2-0qtcreatorcdbext32.7z, C:/Qt
+[584746] Done
+[584746] perform qt.tools.qtcreatorcdbext operation: Extract
+[584746] 	- arguments: installer://qt.tools.qtcreatorcdbext/5.0.2-0qtcreatorcdbext32.7z, C:/Qt
+[585008] Done
+[585008] backup qt.tools.qtcreatorcdbext operation: Extract
+[585008] 	- arguments: installer://qt.tools.qtcreatorcdbext/5.0.2-0qtcreatorcdbext64.7z, C:/Qt
+[585008] Done
+[585008] perform qt.tools.qtcreatorcdbext operation: Extract
+[585008] 	- arguments: installer://qt.tools.qtcreatorcdbext/5.0.2-0qtcreatorcdbext64.7z, C:/Qt
+[585248] Done
+[585252] Installation du composant Qt Data Visualization for MinGW 7.3.0 64-bit
+[585252] backup qt.qt5.51212.qtdatavis3d.win64_mingw73 operation: Extract
+[585252] 	- arguments: installer://qt.qt5.51212.qtdatavis3d.win64_mingw73/5.12.12-0qtdatavis3d-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[585252] Done
+[585252] perform qt.qt5.51212.qtdatavis3d.win64_mingw73 operation: Extract
+[585252] 	- arguments: installer://qt.qt5.51212.qtdatavis3d.win64_mingw73/5.12.12-0qtdatavis3d-Windows-Windows_10-Mingw73-Windows-Windows_10-X86_64.7z, C:/Qt
+[587133] Done
+[587133] backup qt.qt5.51212.qtdatavis3d.win64_mingw73 operation: QtPatch
+[587133] 	- arguments: windows, C:/Qt/5.12.12/mingw73_64, QmakeOutputInstallerKey=qt.qt5.51212.win64_mingw73_qmakeoutput, qt5
+[587133] Done
+[587134] perform qt.qt5.51212.qtdatavis3d.win64_mingw73 operation: QtPatch
+[587134] 	- arguments: windows, C:/Qt/5.12.12/mingw73_64, QmakeOutputInstallerKey=qt.qt5.51212.win64_mingw73_qmakeoutput, qt5
+[587306] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DataVisualizationd.prl'
+[587306] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/Qt5DataVisualization.prl'
+[587307] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/lib/pkgconfig/Qt5DataVisualization.pc'
+[587308] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_datavisualization_private.pri'
+[587308] QtPatchOperation::getFilteredContent match: 'C:/Qt/5.12.12/mingw73_64/mkspecs/modules/qt_lib_datavisualization.pri'
+[587313] Done
+[587362] Writing maintenance tool: "C:/Qt/MaintenanceTool.exe.new"
+[587363] Écriture de l’outil de maintenance.
+[589019] Wrote permissions for maintenance tool.
+[590569] Maintenance tool restart: false.
+[590571] Installation terminée !
+[629891] run application as detached process: "C:\\Qt\\\\Tools\\QtCreator\\bin\\qtcreator.exe" () "C:/Users/asus"
