@@ -1,0 +1,106 @@
+import cv2
+import numpy as np
+
+# Paths to YOLO files
+yolo_weights_path = "C:/Users/asus/PycharmProjects/pythonProject2/yolov3.weights"
+yolo_cfg_path = "C:/Users/asus/PycharmProjects/pythonProject2/yolov3.cfg"
+coco_names_path = "C:/Users/asus/PycharmProjects/pythonProject2/coco.names"
+
+# Load pre-trained YOLOv3 vehicle detection model
+net = cv2.dnn.readNet(yolo_weights_path, yolo_cfg_path)
+layer_names = net.getLayerNames()
+output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
+
+# Load object classes
+with open(coco_names_path, "r") as f:
+    classes = [line.strip() for line in f.readlines()]
+
+
+# Function to calculate Euclidean distance between two points
+def euclidean_distance(pt1, pt2):
+    return np.sqrt((pt1[0] - pt2[0]) ** 2 + (pt1[1] - pt2[1]) ** 2)
+
+
+# Function for vehicle detection
+def detect_vehicles(frame):
+    height, width, channels = frame.shape
+    blob = cv2.dnn.blobFromImage(frame, 0.00392, (416, 416), (0, 0, 0), True, crop=False)
+    net.setInput(blob)
+    outs = net.forward(output_layers)
+
+    class_ids = []
+    confidences = []
+    boxes = []
+    labels = []
+
+    for out in outs:
+        for detection in out:
+            scores = detection[5:]
+            class_id = np.argmax(scores)
+            confidence = scores[class_id]
+            if confidence > 0.5 and classes[class_id] in ["car", "truck", "bus", "motorbike"]:  # Vehicles of interest
+                center_x = int(detection[0] * width)
+                center_y = int(detection[1] * height)
+                w = int(detection[2] * width)
+                h = int(detection[3] * height)
+                x = int(center_x - w / 2)
+                y = int(center_y - h / 2)
+                boxes.append([x, y, w, h])
+                confidences.append(float(confidence))
+                class_ids.append(class_id)
+                labels.append(classes[class_id])
+
+    indexes = cv2.dnn.NMSBoxes(boxes, confidences, 0.5, 0.4)
+    return boxes, indexes, labels
+
+
+# Connect to phone camera via web
+cap = cv2.VideoCapture(0)
+
+if not cap.isOpened():
+    print("Error: Unable to read video stream.")
+else:
+    print("Camera is working properly.")
+    previous_boxes = None
+
+    while cap.isOpened():
+        ret, frame = cap.read()
+        if not ret:
+            print("Error: Unable to read camera image.")
+            break
+
+        boxes, indexes, labels = detect_vehicles(frame)
+
+        if previous_boxes is not None:
+            for i in range(len(boxes)):
+                if i in indexes:
+                    x, y, w, h = boxes[i]
+                    current_center = (x + w // 2, y + h // 2)
+                    label = labels[i]
+                    if i < len(previous_boxes):
+                        previous_center = previous_boxes[i]
+                        distance = euclidean_distance(current_center, previous_center)
+                        if distance <12: #o determine if vehicle is stopped
+                            color = (0, 0, 255)  # Rea for stopped
+                            status = "Vehicle stopped"
+                        else:
+                            color = (0, 255, 0)  # Green for moving
+                            status = "Vehicle moving"
+                    # else:
+                    #     color = (0, 0, 255)  # Red for stopped
+                    #     status = "Vehicle stopped"
+                        # Draw rectangle and text on the frame
+                        cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
+                        cv2.putText(frame, f"{label} - {status}", (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
+
+        # Update previous_boxes with current vehicle centers
+        previous_boxes = [((x + w // 2), (y + h // 2)) for x, y, w, h in boxes]
+
+        # Show the frame
+        cv2.imshow("Frame", frame)
+
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
+
+cap.release()
+cv2.destroyAllWindows()
